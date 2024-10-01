@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Robot Simulator Test App By Michell Okwu</h1>
+      <h1>Robot Simulator Test App By Michell </h1>
       <div className='grid'>
         {[...Array(5)].map((_, row) => (
           <div key={row} className='row'>
